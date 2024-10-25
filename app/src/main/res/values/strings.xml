@@ -1,0 +1,8 @@
+<resources>
+        <string name="app_name">FuelCalculate</string>
+        <string-array name="yakit_turleri">
+            <item>Gasoline</item>
+            <item>LPG</item>
+            <item>Diesel Oil</item>
+        </string-array>
+    </resources>
